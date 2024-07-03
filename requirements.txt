@@ -13,4 +13,3 @@ redis==5.1.0b4
 drf-yasg==1.20.0
 django-cors-headers==4.3.1
 crontab==1.0.1
-python-dotenv==0.19.0
